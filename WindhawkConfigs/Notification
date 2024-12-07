@@ -1,5 +1,5 @@
 {
-  "theme": "",
+  "theme": "TranslucentShell",
   "controlStyles[0].target": "Grid#NotificationCenterGrid",
   "controlStyles[0].styles[0]": "Shadow:=",
   "resourceVariables[0].variableKey": "",
@@ -91,5 +91,8 @@
   "controlStyles[31].styles[0]": "Height=0",
   "controlStyles[27].styles[3]": "Shadow:=",
   "controlStyles[32].target": "Grid#MediaTransportControlsRegion",
-  "controlStyles[32].styles[0]": "Visibility=1"
+  "controlStyles[32].styles[0]": "Visibility=1",
+  "controlStyles[17].styles[3]": "Margin=0,0,0,688",
+  "controlStyles[10].styles[3]": "VerticalAlignment=Stretch",
+  "controlStyles[11].styles[3]": "Margin=0,12,0,861"
 }

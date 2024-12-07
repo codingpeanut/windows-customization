@@ -31,6 +31,8 @@ Mods used:
 - Taskbar Labels for Windows 11 | [My config](https://github.com/lunar-os/windowsdesktop2/blob/main/WindhawkConfigs/Labels)
 - Taskbar height and icon size | Icon size:16 / Taskbar height:40 / Taskbar button width:34
 - Taskbar Clock Customization | [My config](https://github.com/lunar-os/windowsdesktop2/blob/main/WindhawkConfigs/Clock)
+- Taskbar on top for Windows 11
+- Middle click to close on the taskbar
 - Hide Search Bar
 - Disable grouping on the taskbar
 

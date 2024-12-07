@@ -28,7 +28,6 @@
   "controlStyles[6].target": "SystemTray.TextIconContent > Grid#ContainerGrid > SystemTray.AdaptiveTextBlock#Base > TextBlock#InnerTextBlock",
   "controlStyles[6].styles[0]": "FontSize=13",
   "controlStyles[7].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton]",
-  "controlStyles[7].styles[0]": "Visibility=Collapsed",
   "controlStyles[8].target": "Windows.UI.Xaml.Controls.TextBlock#InnerTextBlock[Text=]",
   "controlStyles[8].styles[0]": "Text=",
   "controlStyles[9].target": "Rectangle#BackgroundStroke",
@@ -76,5 +75,6 @@
   "controlStyles[23].styles[0]": "Visibility=Collapsed",
   "controlStyles[24].target": "Taskbar.TaskListLabeledButtonPanel",
   "controlStyles[24].styles[0]": "",
-  "controlStyles[24].styles[1]": ""
+  "controlStyles[24].styles[1]": "",
+  "controlStyles[7].styles[0]": "Visibility=Collapsed"
 }
